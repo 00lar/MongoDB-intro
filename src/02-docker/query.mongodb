@@ -1,0 +1,3 @@
+use("Dani_store")
+
+db.products.find()
